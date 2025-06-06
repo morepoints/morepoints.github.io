@@ -1,1 +1,8 @@
+title: My Hacking Blog
+description: Cybersecurity, CTFs, Red Teaming & More
+author: morepoints
 theme: jekyll-theme-hacker
+baseurl: "" # Leave blank for root
+url: "https://morepoints.github.io"
+markdown: kramdown
+permalink: /:title/

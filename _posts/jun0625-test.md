@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test"
+title: "How I test"
 date: 2025-06-06
 ---
 
